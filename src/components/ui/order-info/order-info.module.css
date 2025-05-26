@@ -74,3 +74,12 @@
 .total {
   margin-left: auto;
 }
+
+.title {
+  font-family: Iceland, sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  margin: 0;
+}
